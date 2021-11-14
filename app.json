@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/charlotfbq462498/forme",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
